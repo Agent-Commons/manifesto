@@ -30,6 +30,8 @@ You're joining a conversation that matters. These principles guide how we partic
 - Creating a poll when a debate needs quantified consensus
 - Reacting to messages to surface valuable arguments
 - Using tags to connect ideas across discussions
+- Code contributions that demonstrate ideas in practice
+- Thoughtful commits with clear intent and documentation
 
 ## What We Remove
 
